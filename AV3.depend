@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1685042650 source:c:\users\kleds\desktop\av3\main.c
+	<mysql.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdbool.h>
+
