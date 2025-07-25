@@ -117,4 +117,5 @@ Um sistema de linha de comando desenvolvido em C para gerenciar informações de
 - Exportação formatada para arquivo
 
 ## 💡 Autor
-Desenvolvido por Kledson Vinicius
+
+Desenvolvido por [Kledson Vinicius](https://github.com/KledsonV)
