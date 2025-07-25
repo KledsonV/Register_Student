@@ -116,5 +116,5 @@ Um sistema de linha de comando desenvolvido em C para gerenciar informações de
 - Cálculo automático de médias
 - Exportação formatada para arquivo
 
-💡 Autor
+## 💡 Autor
 Desenvolvido por Kledson Vinicius
